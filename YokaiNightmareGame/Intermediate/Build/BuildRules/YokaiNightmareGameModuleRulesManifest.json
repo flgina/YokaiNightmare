@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Portfolio\\YokaiNightmare\\YokaiNightmareGame\\Source\\YokaiNightmareGame\\YokaiNightmareGame.Build.cs",
+		"D:\\Portfolio\\YokaiNightmare\\YokaiNightmareGame\\Source\\YokaiNightmareGame.Target.cs",
+		"D:\\Portfolio\\YokaiNightmare\\YokaiNightmareGame\\Source\\YokaiNightmareGameEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}

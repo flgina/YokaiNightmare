@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "YokaiNightmareGame",
+			"Path": "..\\Source\\YokaiNightmareGame.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "YokaiNightmareGameEditor",
+			"Path": "..\\Source\\YokaiNightmareGameEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

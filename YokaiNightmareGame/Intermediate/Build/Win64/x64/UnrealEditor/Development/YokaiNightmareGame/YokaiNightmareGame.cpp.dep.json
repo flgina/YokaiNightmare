@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\portfolio\\yokainightmare\\yokainightmaregame\\source\\yokainightmaregame\\yokainightmaregame.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\portfolio\\yokainightmare\\yokainightmaregame\\intermediate\\build\\win64\\x64\\yokainightmaregameeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\portfolio\\yokainightmare\\yokainightmaregame\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\yokainightmaregame\\definitions.yokainightmaregame.h",
+            "d:\\portfolio\\yokainightmare\\yokainightmaregame\\source\\yokainightmaregame\\yokainightmaregame.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
